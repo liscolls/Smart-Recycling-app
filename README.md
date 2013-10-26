@@ -5,4 +5,5 @@ Open source iOS application, Smart Recycling helps citizens to recycle: using ge
 
 The application should be connected to a platform to get data. 
 
-Initial design http://goo.gl/wxNxWP
+App design http://www.slideshare.net/Lis83/smart-recycling-eng-v6
+Presentation http://goo.gl/wxNxWP
